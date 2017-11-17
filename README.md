@@ -1,5 +1,4 @@
 # bgfx sample
-===
 
 ## compile 
 ---
